@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<packages>
+        <!-- Motorola related packags -->
+        <!-- <item>package.name</item> -->
+        <item>com.vzw.apnlib</item>
+        <item>com.vzw.apnservice</item>
+</packages>

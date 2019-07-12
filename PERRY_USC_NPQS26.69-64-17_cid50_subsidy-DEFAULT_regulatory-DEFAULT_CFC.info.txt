@@ -1,0 +1,25 @@
+BUILD REQUEST INFO:
+SW Version: perry_usc-user 7.1.1 NPQS26.69-64-17 20 release-keysM8917_18.08.04.17.04R
+MBM Version: BA.34
+Modem Version: M8917_18.08.04.17.04R
+FSG Version: FSG-8937-07.43
+Build Fingerprint: motorola/perry_usc/perry:7.1.1/NPQS26.69-64-17/20:user/release-keys
+CQATest App Version: 5.0.8
+
+VERSION INFO FOUND UNDER 'ABOUT PHONE' SCREEN:
+System Version: 26.311.20.perry_usc.usc.en.US
+Model Number: Moto E (4)
+Android Version: 7.1.1
+Baseband Version: M8917_18.08.04.17.04R
+Build Id: NPQS26.69-64-17
+SW Display Build ID: NPQS26.69-64-17
+Build Date: Wed Mar 27 12:50:27 CDT 2019
+
+OTHER MISC VERSION INFO:
+Subsidy Lock Config: slcf_rev_d_default_v1.0.nvm
+Regulatory Info (eLabel): regulatory_info_default.png
+Blur Version: Blur_Version.26.311.20.perry_usc.usc.en.US
+Version when read from CPV: perry_usc-user 7.1.1 NPQS26.69-64-17 20 release-keys
+
+AB Update Enabled: False
+Full Treble Enabled: False
